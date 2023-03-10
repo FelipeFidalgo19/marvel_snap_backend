@@ -31,7 +31,7 @@ server.use('/cartas' , CartasRouter);
 
 
 
-var localhost = "localhost";
+var localhost = "168.138.242.109";
 var port = 8082;
 
 server.listen(port, () => {
